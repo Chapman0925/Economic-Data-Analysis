@@ -1,6 +1,8 @@
 # Economic-Data-Analysis-Project
 
-In this Project I will be utilizing Fred API to obtain Data from Fred(Federal Reserve Economic Data) as well as utilizing serveral libraries from python such as pandas, numpy, matplotlib and plotly.express in order to complete the project.
+In this Project I will be utilizing Fred API to obtain Data from Fred(Federal Reserve Economic Data) as well as utilizing serveral libraries from python such as pandas, numpy, matplotlib and plotly.express in order to complete the project. 
+
+Fred Website: https://fred.stlouisfed.org/docs/api/fred/
 
 1. Utilizing Fred API to retrieve Data
 
