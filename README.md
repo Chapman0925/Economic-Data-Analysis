@@ -34,7 +34,7 @@ Fred Website: https://fred.stlouisfed.org/docs/api/fred/
   
  5. Data Visualization
  
-  - Utilized plotly.express library to visualize our data for the unemployment rate in different states from 1980 to 2020
+  - Utilized plotly.express library to visualize our data for the unemployment rate in different states from 1980 to 2020 ( graph can be downloaded as pic in file)
   
   - Utilized Barplot to demonstrated the Unemployment Rate in 2020 May within different states.
   
